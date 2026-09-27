@@ -1,15 +1,6 @@
 <h1 align="left">Hi there, I'm Siddanagouda Patil (Sid) 👋</h1>
 <h3 align="left">Backend Engineer | Cloud Architect | AI Systems</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/s-m-patil/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <a href="mailto:siddanagoudampatil@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 A little about me
@@ -30,3 +21,10 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,react,nextjs,tailwind,mui,aws,docker,postgres,mongodb,redis,git,linux&perline=10" alt="My Skills" />
   </a>
 </p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/s-m-patil/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:siddanagoudampatil@gmail.com)
