@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Siddanagouda Patil (Sid) 👋</h1>
-<h3 align="center">Backend Engineer | Cloud Architect | AI Systems</h3>
+<h1 align="left">Hi there, I'm Siddanagouda Patil (Sid) 👋</h1>
+<h3 align="left">Backend Engineer | Cloud Architect | AI Systems</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/s-m-patil/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:spati193@asu.edu">
+  <a href="mailto:siddanagoudampatil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
