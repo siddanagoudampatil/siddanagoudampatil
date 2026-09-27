@@ -5,8 +5,6 @@
 
 ### 👨‍💻 A little about me
 
-> *My resume covers my professional metrics, but my GitHub is where I showcase my actual passion for software architecture. I enjoy building systems that handle massive scale reliably, and I am highly interested in integrating modern AI into traditional engineering workflows.*
-
 - 🎓 Currently pursuing my **MS in Computer Science** at **Arizona State University**. 
 - 💼 Previously, I spent 3 years as a Software Engineer at **Tata AIA** and **BYJU'S**. I specialize in the heavy lifting of backend engineering: deploying serverless infrastructure, ensuring data consistency across distributed systems, and making sure APIs don't fail under heavy load.
 - 🧠 **Current Focus:** Agentic AI, Distributed Systems, and Serverless Architectures. I am particularly fascinated by how we can apply strict software engineering guardrails to LLMs to make them reliable for enterprise use.
