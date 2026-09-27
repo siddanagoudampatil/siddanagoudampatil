@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,react,nextjs,tailwind,mui,express,aws,docker,html,css,postgres,mysql,mongodb,redis,git,linux,gemini,restapi,graphql&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,react,nextjs,tailwind,mui,express,aws,docker,html,css,postgres,mysql,mongodb,redis,git,linux&perline=10" alt="My Skills" />
   </a>
 </p>
 
