@@ -3,10 +3,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/s-m-patil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="mailto:siddanagoudampatil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" />
   </a>
 </p>
 
@@ -29,14 +29,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,react,nextjs,tailwind,mui,aws,docker,postgres,mongodb,redis,git,linux&perline=10" alt="My Skills" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <!-- Set height to 150 to ensure both cards align perfectly side-by-side -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=siddanagoudampatil&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&icon_color=2F80ED" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddanagoudampatil&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777" alt="Top Languages" />
 </p>
