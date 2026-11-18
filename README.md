@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Siddanagouda Patil (Sid) 👋</h1>
+<h1 align="left">Hi there, I'm Siddanagouda (Sid) Patil 👋</h1>
 <h3 align="left">Backend Engineer | Cloud Architect | AI Systems</h3>
 
 ---
